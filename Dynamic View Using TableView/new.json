@@ -1,0 +1,656 @@
+{
+    "id":456,
+    "name":"ABC ApS - Hesselager",
+    "description":"",
+    "language":"da",
+    "default_timezone":"Europe/Copenhagen",
+    "image":"https://dje0x8zlxc38k.cloudfront.net/logos/456.png",
+    "theme":"appointlet",
+    "padding":0.0,
+    "maximum_times_per_day":0,
+    "bookable_type":"medarbejder",
+    "bookable_type_plural":"medarbejdere",
+    "service_type":"tjeneste",
+    "service_type_plural":"tjenester",
+    "payments":"none",
+    "service_header":"Venligst vÊlg hvilken service du ¯nsker at booke.",
+    "bookable_header":"Venligst vÊlg hvilken medarbejder du ¯nske skal udf¯re opgaven.",
+    "times_header":"VÊlg det ¯nskede ledige tidspunkt.",
+    "client_header":"Venligst udfyld nedenstÂende",
+    "review_header":"Venligst bekrÊft dine indtastede informationer.",
+    "payment_header":"Betal via PayPal",
+    "completed_header":"Tak for din bestilling!",
+    "completed_message":null,
+    "redirect_url":"",
+    "services":[
+                {
+                "id":11818,
+                "category":null,
+                "name":"Hjulskift kampagne Hesselager - indtil 31.10.2014",
+                "description":"Basis hjulskift samt opbevaring af sommerhjul i en sÊson. Pris inkl. moms.",
+                "image":null,
+                "duration":1500.0,
+                "currency":"DKK",
+                "price":299.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":0.0,
+                "minimum_notice":0.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"11818",
+                "visible":true
+                },
+                {
+                "id":583,
+                "category":null,
+                "name":"Hjulskift Basis - Hesselager",
+                "description":"Hjulskifte og dÊktryk kontrol / luft pÂfyldning\r\nPrisen er inkl. moms",
+                "image":null,
+                "duration":1500.0,
+                "currency":"DKK",
+                "price":399.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"583",
+                "visible":true
+                },
+                {
+                "id":522,
+                "category":null,
+                "name":"Hjulskift Solo - Hesselager",
+                "description":"Hjulskifte,\r\ndÊktryk kontrol / luft pÂfyldning,\r\nUdvendig vask af bil,\r\nVinduespolering udvendig,\r\nVask af fÊlge,\r\nInsektrens pÂ k¯ler/nummerplade/forrude/spejle m.m.\r\nPrisen er inkl. moms",
+                "image":null,
+                "duration":2400.0,
+                "currency":"DKK",
+                "price":598.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"522",
+                "visible":true
+                },
+                {
+                "id":533,
+                "category":null,
+                "name":"Hjulskift Duo - Hesselager",
+                "description":"Hjulskifte,\r\nUdvendig vask af bil,\r\nVinduespolering ind- og udvendig,\r\nVask af fÊlge,\r\nInsektrens pÂ k¯ler/nummerplade/forrude/spejle m.m.,\r\nSt¯vsugning,\r\nMÂtter banker,\r\nInstrumentbord/konsoller aft¯rres,\r\nAskebÊger t¯mmes og vaskes,\r\nAft¯rring af d¯rlister og trinbrÊt,\r\nRadio/navi/luftdysser st¯vsuges,\r\nBagagerum st¯vsuges,\r\nPrisen er inkl. moms",
+                "image":null,
+                "duration":4800.0,
+                "currency":"DKK",
+                "price":998.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"533",
+                "visible":true
+                },
+                {
+                "id":540,
+                "category":null,
+                "name":"Hjulskift Trio - Hesselager",
+                "description":"Hjulskifte, \r\nDÊktryk kontrol / luft pÂfyldning,\r\nUdvendig vask af bil,\r\nVinduespolering ind- og udvendig,\r\nVask af fÊlge,\r\nInsektrens pÂ k¯ler/nummerplade/forrude/spejle m.m.,\r\nSt¯vsugning,\r\nMÂtter banker,\r\nInstrumentbord/konsoller aft¯rres,\r\nAskebÊger t¯mmes og vaskes,\r\nAft¯rring af d¯rlister og trinbrÊt,\r\nRadio/navi/luftdysser st¯vsuges,\r\nBagagerum st¯vsuges,\r\nVed skift til vinterdÊk - Frostsikring af gummilister og d¯rlÂse. \r\nVed skift til sommerdÊk - VÂdvoksbehandling af bilen udvendigt.\r\nPris er inkl. moms.",
+                "image":null,
+                "duration":5400.0,
+                "currency":"DKK",
+                "price":1098.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"540",
+                "visible":true
+                },
+                {
+                "id":15133,
+                "category":null,
+                "name":"DÊkskift - Hesselager",
+                "description":"Afmontering af dÊk fra fÊlge/hjul\r\nMontering og afbalancering af dÊk pÂ fÊlge / hjul. \r\nNedenstÂende priser er for fÊlge op til 17'. \r\nPrisen er inkl. moms",
+                "image":null,
+                "duration":3000.0,
+                "currency":"DKK",
+                "price":400.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"15133",
+                "visible":true
+                },
+                {
+                "id":11817,
+                "category":null,
+                "name":"DÊk- og hjulskift - Hesselager",
+                "description":"Afmontering af dÊk fra fÊlge/hjul\r\nMontering og afbalancering af dÊk pÂ fÊlge / hjul\r\nMontering af hjul pÂ bil\r\nDÊktryk kontrol / luft pÂfyldning\r\nPrisen er inkl. moms",
+                "image":null,
+                "duration":4500.0,
+                "currency":"DKK",
+                "price":799.0,
+                "deposit":0.0,
+                "tax":0.0,
+                "manual_confirm":false,
+                "cancelation_notice":86400.0,
+                "reschedule_notice":86400.0,
+                "minimum_notice":86400.0,
+                "maximum_notice":2592000.0,
+                "pooled_availability":false,
+                "location_type":null,
+                "location":null,
+                "slug":"11817",
+                "visible":true
+                }
+                ],
+    "bookables":[
+                 {
+                 "id":13466,
+                 "visible":true,
+                 "name":"ABC medarbejder",
+                 "description":"",
+                 "image":"https://ucarecdn.com/c05437a6-8185-4ef0-bc73-86f0f08e9cca/-/resize/60x60/",
+                 "rel":{
+                 "available_times":"https://api.appointlet.com/bookables/13466/available_times"
+                 },
+                 "services_performed":[
+                                       583,
+                                       522,
+                                       533,
+                                       540,
+                                       15133,
+                                       11817
+                                       ],
+                 "slug":"13466"
+                 }
+                 ],
+    "fields":[
+              {
+              "id":39729,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"fornavn",
+              "visible":true,
+              "kwargs":{
+              "label":"Fornavn",
+              "required":true,
+              "max_length":100
+              }
+              },
+              {
+              "id":53324,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daekmodel",
+              "visible":false,
+              "kwargs":{
+              "label":"dÊkmodel",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53325,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daekbredde",
+              "visible":false,
+              "kwargs":{
+              "label":"dÊkbredde",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53326,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daekhojde",
+              "visible":false,
+              "kwargs":{
+              "label":"dÊkh¯jde",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53327,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daekdiameter",
+              "visible":false,
+              "kwargs":{
+              "label":"dÊkdiameter",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53328,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"loadindex",
+              "visible":false,
+              "kwargs":{
+              "label":"loadindex",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53329,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"hastighedsindex",
+              "visible":false,
+              "kwargs":{
+              "label":"hastighedsindex",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53330,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"faelgtype",
+              "visible":false,
+              "kwargs":{
+              "label":"fÊlgtype",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53331,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"hjulkapsel",
+              "visible":false,
+              "kwargs":{
+              "label":"hjulkapsel",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53332,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"motrik",
+              "visible":false,
+              "kwargs":{
+              "label":"m¯trik",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":52875,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"lager-placering",
+              "visible":false,
+              "kwargs":{
+              "label":"Lager placering",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":52876,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"daek-tryk-for",
+              "visible":false,
+              "kwargs":{
+              "label":"DÊk tryk for",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":52877,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daek-tryk-bag",
+              "visible":false,
+              "kwargs":{
+              "label":"DÊk tryk bag",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":52878,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"spaendningsmoment",
+              "visible":true,
+              "kwargs":{
+              "label":"SpÊndningsmoment",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":53445,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"daekmaerke",
+              "visible":false,
+              "kwargs":{
+              "label":"dÊkmÊrke",
+              "required":false,
+              "max_length":100
+              }
+              },
+              {
+              "id":48996,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"efternavn",
+              "visible":true,
+              "kwargs":{
+              "label":"Efternavn",
+              "required":true,
+              "max_length":100
+              }
+              },
+              {
+              "id":49150,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"firma",
+              "visible":true,
+              "kwargs":{
+              "label":"Firma",
+              "required":false,
+              "max_length":30
+              }
+              },
+              {
+              "id":333,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"bilmrke",
+              "visible":true,
+              "kwargs":{
+              "label":"BilmÊrke",
+              "help_text":"ex. Ford, Seat ",
+              "required":true
+              }
+              },
+              {
+              "id":334,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"reg-nr",
+              "visible":true,
+              "kwargs":{
+              "label":"Reg. nr.",
+              "help_text":"ex. BW45546",
+              "required":true,
+              "max_length":7
+              }
+              },
+              {
+              "id":332,
+              "services":[
+              
+              ],
+              "prepopulatable":true,
+              "kind":"CharField",
+              "slug":"mobilnummer",
+              "visible":true,
+              "kwargs":{
+              "label":"Mobilnummer",
+              "help_text":"SÂ vi kan kontakte dig",
+              "required":true
+              }
+              },
+              {
+              "id":1863,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"MultipleChoiceField",
+              "slug":"tillaegsprodukter-hjulskift",
+              "visible":true,
+              "kwargs":{
+              "label":"TillÊgsprodukter hjulskift",
+              "help_text":"",
+              "required":false,
+              "choices":[
+                         "Opbevaring af hjulsÊt i Èn sÊson ifm. hjulskifte - 100 kr.",
+                         "Opbevaring af hjulsÊt i Èn sÊson uden hjulskifte - 250 kr.",
+                         "Afbalancering af hjulsÊt - 100 kr.",
+                         "- TillÊg ved fÊlge > 17' - 100 kr.",
+                         "- TillÊg ved alufÊlge - 100 kr.",
+                         "TillÊg ved dÊkskifte for hjul mellem 18í og 19í - 50 kr. pr. hjul",
+                         "TillÊg ved dÊkskifte for hjul mellem 20í og 21í - 100 kr. pr. hjul",
+                         "TillÊg ved dÊkskifte for hjul mellem 22í og 24í - 200 kr. pr. hjul",
+                         "Bortskaffelse af gamle dÊk - ved dÊkskifte - 25 kr. pr. dÊk",
+                         "Grundig fÊlgrens af opbevarede fÊlge - 150 kr."
+                         ]
+              }
+              },
+              {
+              "id":4973,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"ChoiceField",
+              "slug":"hjul-som-pasaettes",
+              "visible":true,
+              "kwargs":{
+              "label":"Hjul som pÂsÊttes",
+              "help_text":"",
+              "required":true,
+              "choices":[
+                         "Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC Jeg har k¯bt gennem ABC",
+                         "Jeg medbringer selv mine hjul pÂ dagen.",
+                         "Jeg ¯nsker dem afhentet af ABC i forvejen.",
+                         "ABC opbevarer allerede mine hjul."
+                         ]
+              }
+              },
+              {
+              "id":1866,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"ChoiceField",
+              "slug":"lasebolt",
+              "visible":true,
+              "kwargs":{
+              "label":"LÂsebolt",
+              "help_text":"Hvis ja, husk at medbringe disse",
+              "required":true,
+              "choices":[
+                         "Ja",
+                         "Nej"
+                         ]
+              }
+              },
+              {
+              "id":5022,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"MultipleChoiceField",
+              "slug":"tillaegsprodukter-bilvask",
+              "visible":true,
+              "kwargs":{
+              "label":"TillÊgsprodukter bilvask",
+              "help_text":"",
+              "required":false,
+              "choices":[
+                         "Fastg¯relse af nummerplader - 149 kr.",
+                         "SprinklervÊske - 10 kr. pr. liter",
+                         "SÊderens - 750 kr.",
+                         "ImprÊgnering af sÊder - 750 kr.",
+                         "Airconrens / Desinfektion - 525 kr.",
+                         "SUV/MPV bil (ved Duo/Trio vask) - 250 kr.",
+                         "HundehÂr i bilen - 175 kr.",
+                         "VÂdvoksbehandling - 199 kr.",
+                         "Vinterklarg¯ring - behandling af gummilister og lÂse - 199 kr.",
+                         "Grundig fÊlgrens - 125 kr."
+                         ]
+              }
+              },
+              {
+              "id":10371,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"MultipleChoiceField",
+              "slug":"stenslagsreparation-i-forrude",
+              "visible":true,
+              "kwargs":{
+              "label":"Stenslagsreparation i forrude",
+              "help_text":"Reparationen afhÊnger af st¯rrelsen og placeringen af stenslaget",
+              "required":false,
+              "choices":[
+                         "1. stenslag - 250 kr. inkl. moms",
+                         "2. stenslag - 150 kr. inkl. moms",
+                         "3. stenslag - 75 kr. inkl. moms"
+                         ]
+              }
+              },
+              {
+              "id":386,
+              "services":[
+              
+              ],
+              "prepopulatable":false,
+              "kind":"CharField",
+              "slug":"andet",
+              "visible":true,
+              "kwargs":{
+              "label":"Andet",
+              "help_text":"BemÊrkninger eller yderligere ¯nsker",
+              "required":false,
+              "max_length":50
+              }
+              }
+              ],
+    "payment_accounts":[
+    
+    ],
+    "plan":{
+        "per_bookable":false,
+        "bookables_count":-1,
+        "services_count":-1,
+        "fields_count":-1,
+        "payments":true,
+        "file_field":true,
+        "pooled_availability":true,
+        "utm_tracking":true,
+        "prepopulation":true,
+        "redirect":true,
+        "private_services":true,
+        "private_bookables":true
+    },
+    "seats":1,
+    "rel":{
+        "pool_info":"https://api.appointlet.com/organizations/456/pool_info"
+    }
+}
